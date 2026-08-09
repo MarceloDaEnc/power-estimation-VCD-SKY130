@@ -1,0 +1,9 @@
+# Simulation/output files
+*.vcd
+*.out
+*.log
+
+# Build directories
+build/
+obj_dir/
+sim_build/
